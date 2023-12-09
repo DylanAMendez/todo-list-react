@@ -77,11 +77,6 @@ function App() {
 
       </div>
 
-      <footer className='text-[#a1f7a188] bottom-0 flex flex-col mt-11'>
-         <a href="https://dylan-mendez.vercel.app" rel='noreferrer' target='_blank'> »Dylan A. Mendez« </a>
-        </footer>
-               
-
     </>
   )
 }
