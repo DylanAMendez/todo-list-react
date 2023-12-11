@@ -43,7 +43,7 @@ function App() {
   return (
     <>
               {/* ----Header---- */}
-      <div className=' text-green-500 text-3xl my-10 font-bold'>Todo List App</div>
+      <div className=' text-green-500 text-3xl my-10 font-bold'>To do List App</div>
 
               {/* ----input to add some task---- */}
 
